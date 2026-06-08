@@ -14,7 +14,7 @@
 - 🔭 Currently building **Attendance Management System** with Flask & MySQL
 - 🌱 Learning **Java DSA**, **Machine Learning**, and **SQL**
 - 🎯 Target: Software Engineer at **Zoho / Freshworks**
-- 📫 Reach me at: **your email here**
+- 📫 Reach me at: **gopikrishnasa567@gmail.com**
 
 ---
 
