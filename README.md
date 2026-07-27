@@ -65,7 +65,7 @@
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gopi-krishna-sa-ab0745367)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/gopi-krishna-sa-ab0745367](https://www.linkedin.com/in/gopi-krishna-sa?utm_source=share_via&utm_content=profile&utm_medium=member_android))
 
 ---
 
