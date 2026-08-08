@@ -10,10 +10,8 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 B.Tech CSE (AI/ML) at **Centurion University, Odisha** (2028)
-- 💼 Founder of an **Online Video Editing Center** with 21K+ Instagram followers
-- 🔭 Currently building **Attendance Management System** with Flask & MySQL
+- 🔭 Currently building Ai Projects
 - 🌱 Learning **Java DSA**, **Machine Learning**, and **SQL**
-- 🎯 Target: Software Engineer at **Zoho / Freshworks**
 - 📫 Reach me at: **gopikrishnasa567@gmail.com**
 
 ---
@@ -27,18 +25,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 🚀 Projects
-
-### 📅 Attendance Management System
-> Web-based attendance system built with Flask & MySQL
-- Teachers mark subject-wise attendance
-- Students view attendance percentage
-- Auto date detection, timetable view
-- **Tech:** Python, Flask, MySQL, HTML, CSS
-- 🔗 [GitHub Repo](https://github.com/gopikrishnasa567-creator/ATTENDENCE_APP)
 
 ---
 
